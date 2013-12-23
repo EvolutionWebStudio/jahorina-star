@@ -150,8 +150,16 @@ header {
     }
 
 
+/* CONTENT */
 
+.main-container {
 
+}
+
+.content-wrapper, .category-wrapper, .page-wrapper {
+	padding: 15px 0;
+	background: #fefefe;
+}
 
 
 

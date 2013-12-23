@@ -1,4 +1,4 @@
-<div class="row">
+<div class="category-wrapper clearfix">
 <section class="large-8 columns">
     <article>
         <h2>Ski skola</h2>

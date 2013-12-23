@@ -65,9 +65,11 @@
                     </nav>
                 </header>
             </div>
-            <div class="main-container">
-                <?php include $page; ?>
-            </div>
+			<div class="row">
+				<div class="main-container large-12 columns">
+					<?php include $page; ?>
+				</div>
+			</div>
             <div class="row">
                 <footer class="main-footer">
 
